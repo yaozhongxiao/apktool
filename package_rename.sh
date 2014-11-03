@@ -6,10 +6,10 @@
 #
 
 # default package name
-packageName=com.android.wireless
+packageName=com.alibaba.wireless
 
 # app name on desktop
-appName=webview 
+appName=阿里巴巴winkview
 
 if [ -z $1 ]; then
 	echo "missing new package name !"
